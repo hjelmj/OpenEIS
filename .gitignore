@@ -1,0 +1,22 @@
+# Byte-compiled / optimized / DLL files
+
+__pycache__/
+*.py[cod]
+*$py.class
+
+**/__pycache__/
+**/*.py[cod]
+**/*$py.class
+
+#any backup files
+
+*.*~
+*.bak
+
+**/*.*~
+**/*.bak
+
+# IPython/Jupyter Notebook
+
+.ipynb_checkpoints
+**/.ipynb_checkpoints
