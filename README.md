@@ -29,8 +29,8 @@ Distribution of Relaxation Times [add references here] is a non-parametric appro
 
 [4] M. Schönleber, D. Klotz and E. Ivers-Tiffée, "A Method for Improving the Robustness of linear Kramers-Kronig Validity Tests", Electrochimica Acta (2014), https://dx.doi.org/10.1016/j.electacta.2014.01.034 
 
-[5] M. Saccoccio, T.H. Wan, C. Chen, and F. Ciucci. "Optimal Regularization in Distribution of Relaxation Times Applied to Electrochemical Impedance Spectroscopy: Ridge and Lasso Regression Methods – a Theoretical and Experimental Study." Electrochimica Acta, 147, 470-482 (2014) link
+[5] M. Saccoccio, T.H. Wan, C. Chen, and F. Ciucci. "Optimal Regularization in Distribution of Relaxation Times Applied to Electrochemical Impedance Spectroscopy: Ridge and Lasso Regression Methods – a Theoretical and Experimental Study." Electrochimica Acta, 147, 470-482 (2014), 
 
-[6] F. Ciucci and C. Chen. "Analysis of Electrochemical Impedance Spectroscopy Data Using the Distribution of Relaxation Times: A Bayesian and Hierarchical Bayesian Approach." Electrochimica Acta, 167, 439-454 (2015)link
+[6] F. Ciucci and C. Chen. "Analysis of Electrochemical Impedance Spectroscopy Data Using the Distribution of Relaxation Times: A Bayesian and Hierarchical Bayesian Approach." Electrochimica Acta, 167, 439-454 (2015), 
 
-[7] T.H. Wan, M. Saccoccio, C. Chen, and F. Ciucci. "Influence of the Discretization Methods on the Distribution of Relaxation Times Deconvolution: Implementing Radial Basis Functions with DRTtools." Electrochimica Acta, 184, 483–499 (2015)
+[7] T.H. Wan, M. Saccoccio, C. Chen, and F. Ciucci. "Influence of the Discretization Methods on the Distribution of Relaxation Times Deconvolution: Implementing Radial Basis Functions with DRTtools." Electrochimica Acta, 184, 483–499 (2015), 
